@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Blog
+title: My Blog (site under construction)
 email: sebastien.chapeland@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This will be my personal blog talking about data science project.
@@ -64,9 +64,6 @@ author:
     - label: "Malt profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.malt.fr/profile/sebastienchapeland"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SebastienChapeland"
